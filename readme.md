@@ -24,6 +24,15 @@ Wanderlust is a full-stack web application for discovering and managing property
 
 ---
 
+## 📈 Development Progress
+
+This project was originally developed as part of my **Backend Learnings** repository with consistent commits and iterative improvements.
+
+👉 To explore the full development journey and commit history:
+Check the `wanderlust` folder inside the **backend-learnings** repository.
+
+---
+
 ## 📁 Project Structure
 
 ```
@@ -42,8 +51,37 @@ wanderlust/
 
 ---
 
+## ⚙️ Setup
+
+```bash
+git clone https://github.com/your-username/wanderlust.git
+cd wanderlust
+npm install
+```
+
+Create `.env` file:
+
+```
+MONGO_URI=your_mongodb_connection_string
+SESSION_SECRET=your_secret_key
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_KEY=your_api_key
+CLOUDINARY_SECRET=your_api_secret
+MAPBOX_TOKEN=your_mapbox_access_token
+```
+
+Run the app:
+
+```bash
+npm start
+```
+
+---
+
 ## 👨‍💻 Author
 
 **Vishal Umare**
 
 ---
+
+⭐ Star the repo if you like it!
