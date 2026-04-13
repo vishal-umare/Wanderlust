@@ -32,6 +32,9 @@ This project was originally developed as part of my **Backend Learnings** reposi
 Check the `wanderlust` folder inside the **backend-learnings** repository.
 
 ---
+## 📸 Preview
+
+![Wanderlust Preview](./assests/Screenshot%202026-04-13%20181045.png)
 
 ## 📁 Project Structure
 
